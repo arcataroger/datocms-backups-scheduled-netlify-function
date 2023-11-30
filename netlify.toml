@@ -1,4 +1,2 @@
-[[headers]]
- for = "/*"
- [headers.values]
-    Access-Control-Allow-Origin = "https://plugins-cdn.datocms.com"
+[template.environment]
+  DATOCMS_FULLACCESS_TOKEN = "Input you DatoCMS project Full Access Token"
