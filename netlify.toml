@@ -1,5 +1,3 @@
-[template.environment]
-  DATOCMS_FULLACCESS_TOKEN = "Input you DatoCMS project Full Access Token"
 [[headers]]
  for = "/*"
  [headers.values]
